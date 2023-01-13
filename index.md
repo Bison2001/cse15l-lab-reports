@@ -16,5 +16,5 @@ Type the following command to your terminal `cs15lwi23zz@ieng6.ucsd.edu` with `z
 ![Image](login.png)
 
 ## Fifth try some command
-You can try some command to navigate the file system.
+You can try some commands to navigate the file system.
 ![Image](command.png)
